@@ -63,3 +63,17 @@ Euclidean Distance: Euclidean distance is calculated as the square root of the s
 Manhattan Distance: This is the distance between real vectors using the sum of their absolute difference.
 
 Hamming Distance: It is used for categorical variables. If the value (x) and the value (y) are the same, the distance D will be equal to 0 . Otherwise D=1.
+
+### Applications of KNN
+
+Text mining
+
+Agriculture
+
+Finance
+
+Medical
+
+Facial recognition
+
+Recommendation systems (Amazon, Hulu, Netflix, etc)
